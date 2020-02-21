@@ -1,0 +1,1 @@
+# Szoftvermenedzsment2020
