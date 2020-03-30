@@ -1,0 +1,49 @@
+Követelmények:
+
+	Gyártósor irányító rendszer -alrendszerek
+	-futószalag irányítása
+	-palackozás, töltés
+	-Robotizált munkavégzés felügyelete
+	-Hibajelzés
+	-Tartályok töltöttségi szintjének kezelése
+	-Csomagolás
+	-Kezelőfelület a mérnökök számára
+
+
+	Nem funkcionális tul.:
+	-Gördülékenyen működjön napi 8-12 órában legalább, szoftver hiba kizárása
+	-alrendszerek összehangolása
+	-Vész esetén azonnal leállítható
+	-Gyors válaszidő kell (az idő pénz)
+	-Felhasználóbarát
+
+	Arra legyen jó amire tervezték, más nem kell
+
+Rendszertervezés
+
+	Követelmények csoportosítása
+
+	-kezelőfelület -> Hibakezelés, Felhasználóbarát, Rendszerállapot ellenőrízhetősége, Termékelőállítás vezérlése
+	-Robotgépek irányítása -> Automatizált, Kezelőfelületen keresztül módosítható, Hibamentesség
+	-Érzékelők -> Tartályok felügyelete, Vegyi összetétel, Hőmérséklet jelzése, Hibajelzés
+	-Csomagolás -> Automatizált
+
+Alrendszerek fejlesztése
+
+	???
+
+Rendszerintegráció
+
+	A kezelőfelületen keresztül elérhető az összes alrendszer
+
+Rendszer telepítése
+
+	Helyi szerveren, gyári gépek összekapcsolása
+
+Rendszerevolúció
+
+	Saját rendszerről van szó, a belátható jövőben használatban marad, szoftveres fejlesztésre minimális igény van
+
+Rendszer üzemen kívül helyezése
+
+	Lassan kell történnie, hogy az új redszerre zökkenőmentes legyen az áttérés
