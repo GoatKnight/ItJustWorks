@@ -15,4 +15,4 @@
    -Alaptervezet
 
   -2020.04.03. Version 0.5
-   -Eszközválasztás
+   -Brainstorming
