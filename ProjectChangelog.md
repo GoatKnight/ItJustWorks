@@ -11,7 +11,7 @@
   -2020.03.03. Version 0.3
    -Domain létrehozva
 
-  -2020.03.30. Vresion 0.4
+  -2020.03.30. Version 0.4
    -Alaptervezet
 
   -2020.04.03. Version 0.5
