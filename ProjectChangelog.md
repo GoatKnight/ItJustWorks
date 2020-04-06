@@ -9,10 +9,13 @@
    -Linkek
 
   -2020.03.03. Version 0.3
-   -Domain létrehozva
+   -Obsolete
 
   -2020.03.30. Version 0.4
    -Alaptervezet
 
   -2020.04.03. Version 0.5
    -Brainstorming
+
+  -2020.04.06. Version 0.6
+   -Google Site Prototype
