@@ -6,7 +6,7 @@
    -Project process Prezentáció
   
   -2020.02.24. Version 0.2
-   -Linkek
+   -Github
 
   -2020.03.03. Version 0.3
    -Obsolete
